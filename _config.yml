@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "Hyangsuk Min"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person!"
   location         : "대전, South Korea"
-  email            :
+  email            : "hs_min@kaist.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "hs_min@kaist.ac.kr"
+      # url: "hs_min@kaist.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
